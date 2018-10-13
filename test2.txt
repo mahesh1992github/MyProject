@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 10E2-34DF
+
+ Directory of C:\Users\Mahesh\Desktop\MyProject
+
+10/13/2018  05:29 AM    <DIR>          .
+10/13/2018  05:29 AM    <DIR>          ..
+10/12/2018  09:02 PM               408 index.html
+10/12/2018  09:02 PM                 8 test1.txt
+10/13/2018  05:29 AM                 0 test2.txt
+               3 File(s)            416 bytes
+               2 Dir(s)  38,530,867,200 bytes free
